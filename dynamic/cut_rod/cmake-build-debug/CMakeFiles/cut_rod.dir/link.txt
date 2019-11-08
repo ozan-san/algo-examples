@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/cut_rod.dir/main.cpp.o  -o cut_rod 
