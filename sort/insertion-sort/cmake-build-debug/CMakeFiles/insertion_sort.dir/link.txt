@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/insertion_sort.dir/main.cpp.o  -o insertion_sort 

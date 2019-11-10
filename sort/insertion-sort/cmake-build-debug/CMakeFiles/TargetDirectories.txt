@@ -1,3 +1,0 @@
-/home/ozan/algo-examples/sort/insertion-sort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/ozan/algo-examples/sort/insertion-sort/cmake-build-debug/CMakeFiles/insertion_sort.dir
-/home/ozan/algo-examples/sort/insertion-sort/cmake-build-debug/CMakeFiles/edit_cache.dir
